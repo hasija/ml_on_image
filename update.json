@@ -1,0 +1,26 @@
+{
+ "update": {
+    "labels": [
+      {
+        "add": "{{label}}"
+      }
+    ]
+  },
+  "fields": {
+    "summary": "{{summary}}",
+    "issuetype": {
+      "name": "{{issue_type}}"
+    },
+    "description": "{{description}}",
+    "reporter": {
+      "name": "{{reporter}}"
+    },
+    "priority": {
+      "name": "{{priority}}"
+    },
+    "assignee": {
+      "name": "{{assignee}}"
+    }
+
+  }
+}
