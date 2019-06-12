@@ -19,7 +19,7 @@
       "name": "{{priority}}"
     },
     "assignee": {
-      "displayName": "{{assignee}}"
+      "name": "{{assignee}}"
     }
 
   }
