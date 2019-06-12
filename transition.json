@@ -1,0 +1,19 @@
+{
+        "update": {
+  "comment": [
+      {
+        "add": {
+          "body": "{{comment}}"
+        }
+      }
+    ]
+  },
+        "fields": {
+                "resolution": {
+                        "name": "{{resolution}}"
+                }
+        },
+        "transition": {
+                "id": "{{transition_id}}"
+        }
+}
