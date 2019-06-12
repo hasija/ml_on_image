@@ -13,13 +13,13 @@
     },
     "description": "{{description}}",
     "reporter": {
-      "name": "{{reporter}}"
+      "emailAddress": "{{reporter}}"
     },
     "priority": {
       "name": "{{priority}}"
     },
     "assignee": {
-      "name": "{{assignee}}"
+      "emailAddress": "{{assignee}}"
     }
 
   }
