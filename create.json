@@ -1,0 +1,30 @@
+{
+ "update": {
+    "summary": [
+      {
+        "set": "{{summary}}"
+      }
+    ]
+  },
+  "fields": {
+    "issuetype": {
+      "name": "{{issue_type}}"
+    },
+    "project": {
+      "id": "{{project_id}}"
+    },
+    "description": "{{description}}",
+    "reporter": {
+      "name": "{{reporter}}"
+    },
+    "priority": {
+      "name": "{{priority}}"
+    },
+    "labels": [
+      "{{label}}"
+    ],
+    "assignee": {
+      "name": "{{assignee}}"
+    }
+  }
+}
